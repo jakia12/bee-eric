@@ -37,8 +37,8 @@ p {
 }
 
 .header {
-  background-image: url(/assets/images/header.png);
-  height: 45vw;
+  /* background-image: url(/assets/images/header.png); */
+  height: 53vw;
 }
 
 .header .header_main {
