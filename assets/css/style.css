@@ -21,7 +21,7 @@ body {
   font-family: CCMaladroit;
   font-weight: 400;
   color: #fff;
-  background-color: #2d7602db;
+  background-color: #cba98cdb;
   overflow-x: hidden;
 }
 
@@ -174,7 +174,7 @@ p {
 
 .howtobuy h1 {
   font-size: 6vw;
-  color: #2d7602db;
+  color: #cba98cdb;
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
   line-height: 6vw;
@@ -191,7 +191,7 @@ p {
 }
 
 .howtobuy h2 {
-  background-color: #2d7602db;
+  background-color: #cba98cdb;
   border: 2px solid #000;
   border-radius: 5vw;
   padding: 1vw 3vw;
@@ -225,7 +225,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #2d7602db;
+  background-color: #cba98cdb;
   font-size: 3vw;
   margin-top: -8vw;
 }
@@ -291,7 +291,7 @@ p {
 
 .join h1 {
   font-size: 8vw;
-  color: #2d7602db;
+  color: #cba98cdb;
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: black;
   line-height: 6vw;
